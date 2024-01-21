@@ -34,7 +34,7 @@ Score of the Song of the Ace
 		kE,        ren,       brel,      sen,        ov,         nad,       .
 
 		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2+:.25}, ${A2:.25}, ${A2+}, ${A2}, ${G2}
-		suol,      dra,       deE,       us,         mo-,        on,        vAl,    suol,  rEn
+		suol,      dra,       deE,       us,         mo-,        -on,       vAl,    suol,  rEn
 
-		${F2:.5},  ${G2},     ${D3},     ${C3},      ${F3},      ${G3},     ${.}
-		ka,        suol,      sig,       ma,         kaE,        an,        .
+		${F2:.5},  ${G2},     ${D3},     ${C3},      ${F3},      ${G3}
+		ka,        suol,      sig,       ma,         kaE,        an
