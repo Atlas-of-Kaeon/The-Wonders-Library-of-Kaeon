@@ -42,5 +42,6 @@
 
 				A word sprite or throne embedded within a physical object may have opaque or
 				transparent support structures to maintain its shape in cases where its elements
-				are physically separate.
+				are physically separate. As such, word sprites may take the form of character
+				jewels.
 			-
