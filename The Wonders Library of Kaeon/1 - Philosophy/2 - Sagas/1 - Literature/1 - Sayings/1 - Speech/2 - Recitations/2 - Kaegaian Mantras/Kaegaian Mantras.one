@@ -62,8 +62,18 @@
 			uo, uo, uo a'uo
 		-
 			-
-				A chant.
+				A chant, said in repetition, with the first and last 'uo's overlapping.
 
-				The 'uo's are to be said at a low pitch, and the 'a' is to be said at a higher
-				pitch. The first and last 'uo's overlap if the chant is said in repetition.
+				The 'uo's are said in a pitch A, and the 'a' is said with a pitch B defined
+				relative to pitch A, where pitch A may be that of any key on a standard eighty
+				eight key piano, with pitch B being four white keys ahead if pitch A is a white
+				key, or three black keys ahead if pitch A is a black key.
+
+				By default, pitch A is C4.
+
+				The first two 'uo's and the last 'uo' last one second, and the third 'uo' and the
+				'a' last half a second.
+
+				This chant may be referred to as the Angaian heartbeat chant, with its tune being
+				referred to as the Angaian heartbeat tune.
 			-
