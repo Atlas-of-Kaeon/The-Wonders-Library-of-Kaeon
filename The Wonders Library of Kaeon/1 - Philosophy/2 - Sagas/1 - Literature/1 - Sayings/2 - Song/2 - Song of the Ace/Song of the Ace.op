@@ -1,0 +1,192 @@
+Song of the Ace
+
+	Philosophy
+	
+		-
+			This is the Song of the Ace.
+		-
+
+	Principles
+	
+		Lyrics
+		
+			English
+			
+				Stanza 1
+				
+					'Stanza 1: Verse 1'
+					
+						-
+							Receive: One and All; this plea...
+						-
+					
+					'Stanza 1: Verse 2'
+					
+						-
+							(Oh / So) hear: One and All; Hear ye!
+						-
+				
+				Stanza 2
+				
+					'Stanza 2: Verse 1'
+					
+						-
+							As (my / our) brethren fall in vain,
+						-
+					
+					'Stanza 2: Verse 2'
+					
+						-
+							As the world cries out in pain,
+						-
+					
+					'Stanza 2: Verse 3'
+					
+						-
+							Then and there, shall (I / we) raise the dawn!
+						-
+				
+				Stanza 3
+				
+					'Stanza 3: Verse 1'
+					
+						-
+							With perfect will (I / we) shall not lack,
+						-
+					
+					'Stanza 3: Verse 2'
+					
+						-
+							The means to save those gone.
+						-
+				
+				Stanza 4.5
+				
+					
+					'Stanza 4.5: Verse 1'
+					
+						-
+							And...
+						-
+				
+				Stanza 4
+					
+					'Stanza 4: Verse 1'
+					
+						-
+							(I'll / We'll) bear God's burden upon (my / our) back,
+						-
+					
+					'Stanza 4: Verse 2'
+					
+						-
+							For thus (I / we) serve Kaeon!
+						-
+			
+			'Greater Kaegaian (Latinized Angaian)'
+			
+				Stanza 1
+				
+					'Stanza 1: Verse 1'
+					
+						-
+							sigmu, AngaE'u, sigmu,
+						-
+					
+					'Stanza 1: Verse 2'
+					
+						-
+							Sema, AngaE'u, Sema.
+						-
+				
+				Stanza 2
+				
+					'Stanza 2: Verse 1'
+					
+						-
+							wUr suol veno mUoUrtu fen,
+						-
+					
+					'Stanza 2: Verse 2'
+					
+						-
+							wUr tas gaE'u saE so den,
+						-
+					
+					'Stanza 2: Verse 3'
+					
+						-
+							deE ha dan, suol raE ten suol var.
+						-
+				
+				Stanza 3
+				
+					'Stanza 3: Verse 1'
+					
+						-
+							suol ten naE yuo, ar med suol Zen,
+						-
+					
+					'Stanza 3: Verse 2'
+					
+						-
+							kE ren brel sen ov nad.
+						-
+				
+				Stanza 4.5
+				
+					'Stanza 4.5: Verse 1'
+					
+						-
+							ha,
+						-
+				
+				Stanza 4
+				
+					'Stanza 4: Verse 1'
+					
+						-
+							suol dra deE'us, mon vAl suol rEn,
+						-
+					
+					'Stanza 4: Verse 2'
+					
+						-
+							ka suol sigmu kaE'an.
+						-
+
+	Wonders
+
+		Use: Kaeon United
+
+		Stage: &Piano-88
+
+		${G2:.5},  ${D3},     ${C3:.25}, ${A2+:.25}, ${C3},      ${A2},     ${G2},  ${.}
+		sig,       mu,        An,        gaE,        u,          sig,       mu,     .
+
+		${G2:.5},  ${D3},     ${C3:.25}, ${A2+:.25}, ${C3},      ${F3},     ${D3},  ${.}
+		Se,        ma,        An,        gaE,        u,          Se,        ma,     .
+
+		${D3:.25}, ${D3:.25}, ${D3+},    ${D3},      ${C3},      ${A2+},    ${C3}
+		wUr,       suol,      ve,        no,         mUoUr,      tu,        fen
+
+		${C3:.25}, ${C3:.25}, ${D3},     ${C3},      ${A2+},     ${A2},     ${A2+}
+		wUr,       tas,       gaE,       u,          saE,        so,        den
+
+		${G2:.5},  ${A2:.5},  ${A2+},    ${A2:.25},  ${A2+:.25}, ${A2},     ${F2},  ${G2}, ${.}
+		deE,       ha,        dan,       suol,       saE,        ten,       suol,   var,   .
+
+		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2+:.25}, ${A2:.25}, ${A2+}, ${A2}, ${G2}
+		suol,      ten,       naE,       yuo,        a-,         -r,        med,    suol,  Zen
+
+		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2},      ${G2},     ${.}
+		kE,        ren,       brel,      sen,        ov,         nad,       .
+
+		${G2}
+		ha
+
+		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2+:.25}, ${A2:.25}, ${A2+}, ${A2}, ${G2}
+		suol,      dra,       deE,       us,         mo-,        -on,       vAl,    suol,  rEn
+
+		${F2:.5},  ${G2},     ${D3},     ${C3},      ${F3},      ${G3}
+		ka,        suol,      sig,       ma,         kaE,        an
