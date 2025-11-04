@@ -159,34 +159,34 @@ Song of the Ace
 
 		Use: Kaeon United
 
-		Stage: &Piano-88
+		Stage: &Piano-88: Pitch: -2*
 
-		${G2:.5},  ${D3},     ${C3:.25}, ${A2+:.25}, ${C3},      ${A2},     ${G2},  ${.}
-		sig,       mu,        An,        gaE,        u,          sig,       mu,     .
+		${G:/2},   ${D+1},    ${C+1:/4}, ${A*:/4}, ${C+1},   ${A},    ${G},   ${.}
+		sig,       mu,        An,        gaE,      u,        sig,     mu,     .
 
-		${G2:.5},  ${D3},     ${C3:.25}, ${A2+:.25}, ${C3},      ${F3},     ${D3},  ${.}
-		Se,        ma,        An,        gaE,        u,          Se,        ma,     .
+		${G:/2},   ${D+1},    ${C+1:/4}, ${A*:/4}, ${C+1},   ${F+1},  ${D+1}, ${.}
+		Se,        ma,        An,        gaE,      u,        Se,      ma,     .
 
-		${D3:.25}, ${D3:.25}, ${D3+},    ${D3},      ${C3},      ${A2+},    ${C3}
-		wUr,       suol,      ve,        no,         mUoUr,      tu,        fen
+		${D+1:/4}, ${D+1:/4}, ${D*+1},   ${D+1},   ${C+1},   ${A*},   ${C+1}
+		wUr,       suol,      ve,        no,       mUoUr,    tu,      fen
 
-		${C3:.25}, ${C3:.25}, ${D3},     ${C3},      ${A2+},     ${A2},     ${A2+}
-		wUr,       tas,       gaE,       u,          saE,        so,        den
+		${C+1:/4}, ${C+1:/4}, ${D+1},    ${C+1},   ${A*},    ${A},    ${A*}
+		wUr,       tas,       gaE,       u,        saE,      so,      den
 
-		${G2:.5},  ${A2:.5},  ${A2+},    ${A2:.25},  ${A2+:.25}, ${A2},     ${F2},  ${G2}, ${.}
-		deE,       ha,        dan,       suol,       saE,        ten,       suol,   var,   .
+		${G:/2},   ${A:/2},   ${A*},     ${A:/4},  ${A*:/4}, ${A},    ${F},   ${G}, ${.}
+		deE,       ha,        dan,       suol,     saE,      ten,     suol,   var,  .
 
-		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2+:.25}, ${A2:.25}, ${A2+}, ${A2}, ${G2}
-		suol,      ten,       naE,       yuo,        a-,         -r,        med,    suol,  Zen
+		${F:/2},   ${G},      ${D+1},    ${C+1},   ${A*:/4}, ${A:/4}, ${A*},  ${A}, ${G}
+		suol,      ten,       naE,       yuo,      a-,       -r,      med,    suol, Zen
 
-		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2},      ${G2},     ${.}
-		kE,        ren,       brel,      sen,        ov,         nad,       .
+		${F:/2},   ${G},      ${D+1},    ${C+1},   ${A},     ${G},    ${.}
+		kE,        ren,       brel,      sen,      ov,       nad,     .
 
-		${G2}
+		${G}
 		ha
 
-		${F2:.5},  ${G2},     ${D3},     ${C3},      ${A2+:.25}, ${A2:.25}, ${A2+}, ${A2}, ${G2}
-		suol,      dra,       deE,       us,         mo-,        -on,       vAl,    suol,  rEn
+		${F:/2},   ${G},      ${D+1},    ${C+1},   ${A*:/4}, ${A:/4}, ${A*},  ${A}, ${G}
+		suol,      dra,       deE,       us,       mo-,      -on,     vAl,    suol, rEn
 
-		${F2:.5},  ${G2},     ${D3},     ${C3},      ${F3},      ${G3}
-		ka,        suol,      sig,       ma,         kaE,        an
+		${F:/2},   ${G},      ${D+1},    ${C+1},   ${F+1},   ${G+1}
+		ka,        suol,      sig,       ma,       kaE,      an

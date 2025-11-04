@@ -42,14 +42,14 @@ Psalm of the Sun
 
 		Stage: &Piano-88
 
-		${E4:.25}, ${F4+:.25}, ${G4},  ${F4},    ${E4},    ${.}
-		De-,       -spite,     all,    these,    cries,    .
+		${E:/4},  ${F*:/4}, ${G},  ${F},      ${E},      ${.}
+		De-,      -spite,   all,   these,     cries,     .
 
-		${D4:.25}, ${E4:.25},  ${F4+}, ${E4},    ${D4},    ${.}
-		Will,      the,        sun,    still,    rise,     .
+		${D:/4},  ${E:/4},  ${F*}, ${E},      ${D},      ${.}
+		Will,     the,      sun,   still,     rise,      .
 
-		${B3:.5},  ${C4+:.5},  ${D4},  ${.}
-		O,         A-          -ces,   .
+		${B3:/2}, ${C*:/2}, ${D},  ${.}
+		O,        A-        -ces,  .
 
-		${E4:.5},  ${D4:.5},   ${C4+}, ${G2:.5}, ${D2:.5}, ${E2}, ${D2}
-		With,      what~'s,    so,     what,     will,     you,   do
+		${E:/2},  ${D:/2},  ${C*}, ${G-2:/2}, ${D-2:/2}, ${E-2}, ${D-2}
+		With,     what~'s,  so,    what,      will,      you,    do
