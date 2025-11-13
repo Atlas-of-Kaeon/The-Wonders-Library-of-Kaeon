@@ -162,22 +162,22 @@ Song of the Ace
 		Stage: &Piano-88: Pitch: -2*
 
 		${G:/2},  ${D+},    ${C+:/4}, ${A*:/4}, ${C+},    ${A},    ${G},  ${.}
-		sig,      mu,       An,       gaE,      u,        sig,     mu,     .
+		sig-,     -mu,      An-,      -gaE-,    -u,       sig-,    -mu,   .
 
 		${G:/2},  ${D+},    ${C+:/4}, ${A*:/4}, ${C+},    ${F+},   ${D+}, ${.}
-		Se,       ma,       An,       gaE,      u,        Se,      ma,     .
+		Se-,      -ma,      An-,      -gaE-,    -u,       Se-,     -ma,   .
 
 		${D+:/4}, ${D+:/4}, ${D*+},   ${D+},    ${C+},    ${A*},   ${C+}
-		wUr,      suol,     ve,       no,       mUoUr,    tu,      fen
+		wUr,      suol,     ve-,      -no,      mUoUr-,   -tu,     fen
 
 		${C+:/4}, ${C+:/4}, ${D+},    ${C+},    ${A*},    ${A},    ${A*}
-		wUr,      tas,      gaE,      u,        saE,      so,      den
+		wUr,      tas,      gaE-,     -u,       saE,      so,      den
 
 		${G:/2},  ${A:/2},  ${A*},    ${A:/4},  ${A*:/4}, ${A},    ${F},  ${G}, ${.}
 		deE,      ha,       dan,      suol,     saE,      ten,     suol,  var,  .
 
 		${F:/2},  ${G},     ${D+},    ${C+},    ${A*:/4}, ${A:/4}, ${A*}, ${A}, ${G}
-		suol,     ten,      naE,      yuo,      a-,       -r,      med,   suol, Zen
+		suol,     ten,      naE-,     -yuo,     a-,       -r,      med,   suol, Zen
 
 		${F:/2},  ${G},     ${D+},    ${C+},    ${A},     ${G},    ${.}
 		kE,       ren,      brel,     sen,      ov,       nad,     .
@@ -186,7 +186,7 @@ Song of the Ace
 		ha
 
 		${F:/2},  ${G},     ${D+},    ${C+},    ${A*:/4}, ${A:/4}, ${A*}, ${A}, ${G}
-		suol,     dra,      deE,      us,       mo-,      -on,     vAl,   suol, rEn
+		suol,     dra,      deE-,     -us,      mo-,      -on,     vAl,   suol, rEn
 
 		${F:/2},  ${G},     ${D+},    ${C+},    ${F+},    ${G+}
-		ka,       suol,     sig,      ma,       kaE,      an
+		ka,       suol,     sig-,     -mu,      kaE-,     -an
